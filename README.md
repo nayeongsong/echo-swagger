@@ -23,9 +23,9 @@ $ go install github.com/swaggo/swag/cmd/swag@latest
 ```sh_ "github.com/swaggo/echo-swagger/v2/example/docs"
 $ swag init
 ```
-4. Download [echo-swagger](https://github.com/swaggo/echo-swagger) by using:
+4. Download [echo-swagger](https://github.com/nayeongsong/echo-swagger) by using:
 ```sh
-$ go get -u github.com/swaggo/echo-swagger
+$ go get -u github.com/nayeongsong/echo-swagger
 ```
 
 And import following in your code:
